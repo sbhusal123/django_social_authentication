@@ -1,0 +1,15 @@
+# Python env
+env/
+
+# Custom environment variables
+.env
+
+# IDES
+.idea/
+.vscode/
+
+# Databasse
+*.sqlite3
+
+# Cache files
+*.pyc

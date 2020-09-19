@@ -1,2 +1,3 @@
-# django_social_authentication
-Demo project to integrate social authentication using django
+# Django Social Authentication:
+
+- [Social Auth App Django](https://python-social-auth.readthedocs.io/en/latest/configuration/django.html#installing)
